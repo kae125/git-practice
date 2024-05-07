@@ -1,1 +1,2 @@
+cd sites
 # sites
